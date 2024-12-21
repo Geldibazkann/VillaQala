@@ -255,18 +255,18 @@
   margin-left: 7.5%;
   margin-top: 5px;
 }
-.tendirimg{
+.tendirimg {
   width: 90%;
   height: 220px;
   border-radius: 15px;
   margin-left: 5%;
-  margin-top: 20px; 
+  margin-top: 20px;
 }
-.tendirmen div{
+.tendirmen div {
   display: flex;
   justify-content: space-between;
 }
-.tendirimen{
+.tendirimen {
   font-family: ban;
   color: #0f5132;
   display: flex;
@@ -274,5 +274,77 @@
   font-size: 0.9rem;
   width: 75%;
   justify-content: space-between;
-  margin-left: 12.5%; 
+  margin-left: 12.5%;
+}
+.baliqimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.baliqimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.baliqq div {
+  display: flex;
+  justify-content: space-between;
+}
+.baliqq {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.baliq {
+  margin-top: 10px;
+}
+.salat {
+  margin-top: 10px;
+}
+.salatt {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.salatt div {
+  display: flex;
+  justify-content: space-between;
+}
+.salatimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.salatimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
 }
