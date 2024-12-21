@@ -76,7 +76,6 @@
   width: 75%;
   justify-content: space-between;
   margin-left: 12.5%;
-
 }
 .sehmen {
   width: 100%;
@@ -86,4 +85,86 @@
 .sehimen div {
   display: flex;
   justify-content: space-between;
+}
+.cayimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.cayy {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.cayimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left:12.5% 
+}
+.caymen{
+  width: 100%;
+  display: flex;
+  flex-direction: column; 
+}
+.caymen div{
+  display: flex;
+  justify-content: space-between;
+}
+.cay{
+  margin-top: 10px;
+}
+.qaz{
+  margin-top: 10px;
+}
+.qazmen{
+  width: 100%;
+  display: flex;
+  flex-direction: column; 
+}
+.qazmen div{
+  display: flex;
+  justify-content: space-between;
+}
+.qazz{
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.qazimen{
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left:12.5%
+}
+.qazimg{
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
 }
