@@ -10,57 +10,52 @@
   font-family: tw;
   src: url(../fonts/TwCenMTStd.otf);
 }
-*{
+* {
   margin: 0;
   padding: 0;
   text-decoration: none;
   box-sizing: border-box;
-  
 }
-.um{
+.um {
   display: flex;
   justify-content: center;
   background-image: none;
 }
-.logo{
+.logo {
   background-image: none;
   font-size: 4rem;
   color: #0f5132;
   font-family: tw;
   margin-top: 15px;
-
-
 }
-.men{
+.men {
   font-family: tw;
   display: flex;
   justify-content: center;
   color: #0f5132;
   background-image: none;
   font-size: 2rem;
-  margin-top: 5px;  
-  
-
+  margin-top: 5px;
 }
-.linem{
+.linem {
   display: flex;
   height: 3px;
   background-color: #0f5132;
   width: 90%;
-  justify-content: center; 
-margin-top: 15px;
-margin-left: 5%;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 5%;
 }
-.sehimg{
-  width: 85%;
+.sehimg {
+  width: 90%;
   height: 220px;
   border-radius: 15px;
-margin-left: 7.5%;
+  margin-left: 5%;
 }
-.seh{
+.seh {
   margin-top: 10px;
 }
-.sehh2{
+.sehh2 {
   font-family: Pop;
   display: flex;
   justify-content: center;
@@ -68,16 +63,27 @@ margin-left: 7.5%;
   border: 1px solid;
   border-radius: 15px;
   background-color: #0f5132;
-  width: 75%;
-  margin-left: 12.5%;
-  margin-top: 5px
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
 }
-.sehimen{
+.sehimen {
   font-family: ban;
   color: #0f5132;
   display: flex;
-  margin-top: 7px;
-  justify-content: center;
-  font-size: 1rem;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
 
+}
+.sehmen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.sehimen div {
+  display: flex;
+  justify-content: space-between;
 }
