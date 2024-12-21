@@ -113,33 +113,33 @@
   font-size: 0.9rem;
   width: 75%;
   justify-content: space-between;
-  margin-left:12.5% 
+  margin-left: 12.5%;
 }
-.caymen{
+.caymen {
   width: 100%;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
 }
-.caymen div{
+.caymen div {
   display: flex;
   justify-content: space-between;
 }
-.cay{
+.cay {
   margin-top: 10px;
 }
-.qaz{
+.qaz {
   margin-top: 10px;
 }
-.qazmen{
+.qazmen {
   width: 100%;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
 }
-.qazmen div{
+.qazmen div {
   display: flex;
   justify-content: space-between;
 }
-.qazz{
+.qazz {
   font-family: Pop;
   display: flex;
   justify-content: center;
@@ -151,7 +151,7 @@
   margin-left: 7.5%;
   margin-top: 5px;
 }
-.qazimen{
+.qazimen {
   font-family: ban;
   color: #0f5132;
   display: flex;
@@ -159,19 +159,19 @@
   font-size: 0.9rem;
   width: 75%;
   justify-content: space-between;
-  margin-left:12.5%
+  margin-left: 12.5%;
 }
-.qazimg{
+.qazimg {
   width: 90%;
   height: 220px;
   border-radius: 15px;
   margin-left: 5%;
   margin-top: 20px;
 }
-.sorba{
+.sorba {
   margin-top: 10px;
-}  
-.sorbaa{
+}
+.sorbaa {
   font-family: Pop;
   display: flex;
   justify-content: center;
@@ -181,16 +181,16 @@
   background-color: #0f5132;
   width: 85%;
   margin-left: 7.5%;
-  margin-top: 5px; 
+  margin-top: 5px;
 }
-.sorbaimg{
+.sorbaimg {
   width: 90%;
   height: 220px;
   border-radius: 15px;
   margin-left: 5%;
   margin-top: 20px;
 }
-.sorbaimen{
+.sorbaimen {
   font-family: ban;
   color: #0f5132;
   display: flex;
@@ -198,10 +198,81 @@
   font-size: 0.9rem;
   width: 75%;
   justify-content: space-between;
-  margin-left:12.5%
+  margin-left: 12.5%;
 }
-.sorbamen div{
+.sorbamen div {
   display: flex;
   justify-content: space-between;
-
+}
+.kababmen div {
+  display: flex;
+  justify-content: space-between;
+}
+.kababimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.kabab {
+  margin-top: 10px;
+}
+.kababimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.kababb {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.tendir {
+  margin-top: 10px;
+}
+.tendirr {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.tendirimg{
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px; 
+}
+.tendirmen div{
+  display: flex;
+  justify-content: space-between;
+}
+.tendirimen{
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%; 
 }
