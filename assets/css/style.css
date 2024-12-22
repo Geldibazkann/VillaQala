@@ -348,3 +348,40 @@
   justify-content: space-between;
   margin-left: 12.5%;
 }
+.icki{
+  margin-top: 10px;
+}
+.ickii{
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.ickii div{
+  display: flex;
+  justify-content: space-between
+}
+.ickiimg{
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.ickiimen{
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+  
