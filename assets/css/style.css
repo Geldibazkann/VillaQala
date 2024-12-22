@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: Pop;
-  src: url(../fonts/Poppins-Light.ttf);
+  src: url(../fonts/tahoma-bold.ttf);
 }
 @font-face {
   font-family: tw;
@@ -66,6 +66,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .sehimen {
   font-family: ban;
@@ -104,6 +105,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .cayimen {
   font-family: ban;
@@ -150,6 +152,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem
 }
 .qazimen {
   font-family: ban;
@@ -182,6 +185,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .sorbaimg {
   width: 90%;
@@ -239,6 +243,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .tendir {
   margin-top: 10px;
@@ -254,6 +259,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .tendirimg {
   width: 90%;
@@ -308,6 +314,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .baliq {
   margin-top: 10px;
@@ -326,6 +333,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+font-size: 1.4rem;
 }
 .salatt div {
   display: flex;
@@ -362,6 +370,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .ickii div {
   display: flex;
@@ -395,9 +404,10 @@
   border: 1px solid;
   border-radius: 15px;
   background-color: #0f5132;
-  width: 85%;
-  margin-left: 7.5%;
+  width: 89%;
+  margin-left: 5.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .soy div {
   display: flex;
@@ -449,6 +459,7 @@
   width: 85%;
   margin-left: 7.5%;
   margin-top: 5px;
+  font-size: 1.4rem;
 }
 .nush {
   display: flex;
