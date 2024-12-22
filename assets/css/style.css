@@ -455,12 +455,11 @@
   justify-content: center;
   margin-top: 20%;
   font-family: ban;
-  background-color: #0f5132;
-  border: 1px solid;
+  color: #0f5132;
+  font-size: 2rem;
   border-radius: 18px;
   width: 60%;
   margin-left: 20%;
-  color: whitesmoke;
 }
 .huc{
   display: flex;
