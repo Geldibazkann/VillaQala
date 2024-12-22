@@ -348,10 +348,10 @@
   justify-content: space-between;
   margin-left: 12.5%;
 }
-.icki{
+.icki {
   margin-top: 10px;
 }
-.ickii{
+.ickii {
   font-family: Pop;
   display: flex;
   justify-content: center;
@@ -363,18 +363,18 @@
   margin-left: 7.5%;
   margin-top: 5px;
 }
-.ickii div{
+.ickii div {
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
 }
-.ickiimg{
+.ickiimg {
   width: 90%;
   height: 220px;
   border-radius: 15px;
   margin-left: 5%;
   margin-top: 20px;
 }
-.ickiimen{
+.ickiimen {
   font-family: ban;
   color: #0f5132;
   display: flex;
@@ -384,4 +384,108 @@
   justify-content: space-between;
   margin-left: 12.5%;
 }
-  
+.soy {
+  margin: top 10px;
+}
+.soyy {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.soy div {
+  display: flex;
+  justify-content: space-between;
+}
+.soymen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.soyimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.soyimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.el {
+  margin-top: 10px;
+}
+.elimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.ell {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: #0f5132;
+  width: 85%;
+  margin-left: 7.5%;
+  margin-top: 5px;
+}
+.nush {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+  font-family: ban;
+  background-color: #0f5132;
+  border: 1px solid;
+  border-radius: 18px;
+  width: 60%;
+  margin-left: 20%;
+  color: whitesmoke;
+}
+.huc{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 18%;
+  font-family: ban;
+  color: #0f5132;
+  width: 90%;
+  margin-left: 5%;
+  font-size: 0.8rem;
+  margin-bottom: 2.5%;
+
+}
+.hucic{
+  display: flex;
+  flex-direction: column;
+}
+.bes{
+  display: flex;
+  justify-content: center;
+}
+.nor{
+  display: flex;
+  justify-content: center;
+}
+.hucicc{
+  font-size: 0.9rem;
+}
